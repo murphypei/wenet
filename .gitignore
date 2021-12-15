@@ -36,3 +36,10 @@ data
 raw_wav
 tensorboard
 **/*build*
+
+# log
+*.log
+
+# model
+20210602_unified_transformer_server
+test.wav
